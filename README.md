@@ -32,7 +32,16 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 
 <br>
 
+## 🎓 Educacion
 
-## 📬 Contacto
+- **Introducción a Bases de Datos y SQL**
+    *Educacion IT*
+- **Tecnicatura Universitaria en Programación(En curso)**
+    *UTN - Universidad Tecnológica Nacional*
+- **FullStack Engineer**
+    *Educación IT*
+
+
+## 🔗 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnicolasaurora)
