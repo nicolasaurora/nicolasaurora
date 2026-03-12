@@ -36,8 +36,10 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 
 - **Introducción a Bases de Datos y SQL**
     *Educacion IT*
+
 - **Tecnicatura Universitaria en Programación(En curso)**
     *UTN - Universidad Tecnológica Nacional*
+    
 - **FullStack Engineer**
     *Educación IT*
 
