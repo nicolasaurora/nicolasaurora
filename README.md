@@ -1,13 +1,13 @@
-# Hi, I'm Nicolás Aurora 👋
+# Hola, soy Nicolás Aurora 👋
 
 Desarrollador de Software y estudiante de Sistemas en UTN.
 Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas que garanticen un producto escalable y mantenible.
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Tecnologías
 
-**Core**
+**Principales**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -22,7 +22,7 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**Also know**
+**Tambien poseo conocimientos en:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -32,7 +32,7 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicolasaurora&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -41,6 +41,6 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 
 <br>
 
-## 📬 Contact
+## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnicolasaurora)
