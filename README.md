@@ -15,7 +15,7 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps & Tools**
+**Herramientas & Utilidades**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -32,14 +32,6 @@ Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas
 
 <br>
 
-## 📊 GitHub
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicolasaurora&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaurora&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<br>
 
 ## 📬 Contacto
 
