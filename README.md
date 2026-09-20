@@ -1,7 +1,7 @@
 # Hola, soy Nicolás Aurora 👋
 
-Desarrollador de Software y estudiante de Sistemas en UTN.
-Disfruto diseñar soluciones elegantes y eficientes, aplicando buenas prácticas que garanticen un producto escalable y mantenible.
+Desarrollador de Software Freelancer y estudiante de Sistemas en UTN.
+
 
 <br>
 
