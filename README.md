@@ -5,7 +5,7 @@ Desarrollador de Software Freelancer y estudiante de Sistemas en UTN.
 
 <br>
 
-## 🛠 Tecnologías
+## Tecnologías
 
  **Principales:**
 
