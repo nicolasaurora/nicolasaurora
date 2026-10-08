@@ -5,8 +5,6 @@ Desarrollador de Software Freelancer y estudiante de Sistemas en UTN.
 <a href="https://naurora-dev.netlify.app" target="_blank"><img src="./images/n-portfolio-badge2.png" alt="Portfolio" height="60"></a>
 
 
-<br>
-
 ## Tecnologías
 
  **Principales:**
