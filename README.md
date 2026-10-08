@@ -3,6 +3,12 @@
 Desarrollador de Software Freelancer y estudiante de Sistemas en UTN.
 
 
+<a href="https://naurora-dev.netlify.app" target="_blank">
+  <img src="./images/n-portfolio-badge.png" alt="Portfolio" height="60">
+</a>
+
+
+
 <br>
 
 ## Tecnologías
@@ -45,3 +51,4 @@ Desarrollador de Software Freelancer y estudiante de Sistemas en UTN.
 ## 🔗 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnicolasaurora)
+
